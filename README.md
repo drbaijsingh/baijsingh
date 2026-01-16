@@ -72,16 +72,67 @@ I have published 9+ SCI/SCIE Q1/Q2 journal papers in the areas of vibroacoustics
 
 ➡ Full list available here:  
 🔗 **[Publications Repository](https://github.com/drbaijsingh/publications)**
-o	Singh, B.N., Ranjan, V. & Hota, R.N. Vibroacoustic response of mode localized thin functionally graded plates using physical neutral surface, Composite Structures, 287,115301 (2022) https://doi.org/10.1016/j.compstruct.2022.115301 (Q1).
-o	Singh, B.N., Hota, R.N., Dwivedi, S. et al. Acoustic Response of Sigmoid Functionally Graded Thin Plates: A Parametric Investigation. J. Vib. Eng. Technol. 10, 2509–2529 (2022). https://doi.org/10.1007/s42417-022-00500-4 (Q2).
-o	Singh, B.N., Ranjan, V. & Hota, R.N. Vibroacoustic response from thin exponential functionally graded plates. Arch Appl Mech 92, 2095–2118 (2022). https://doi.org/10.1007/s00419-022-02163-9 (Q2).
-o	Singh, B.N.; Hota, R.N.; Dwivedi, S.; Jha, R.; Ranjan, V.; Řehák, K. Analytical Investigation of Sound Radiation from Functionally Graded Thin Plates Based on Elemental Radiator Approach and Physical Neutral Surface. Appl. Sci. 2022, 12, 7707. https://doi.org/10.3390/app12157707 (Q2)
-o	Singh, B.N., Ranjan, V. & Hota, R.N. Vibroacoustic Response of Thin Power Law Indexed Functionally Graded Plates Steel and Composite Structures 50(3)(2024). https://doi.org/10.12989/scs.2024.50.3.299 (Q1)
-o	Singh, B.N., Ranjan, V., Hota, R.N. (2024) “Sound Radiation of Clamped Multilayered Functionally Graded Plates Considering Physical Neutral Surface” Advances in Industrial Machines and Mechanisms. IPROMM 2022. Lecture Notes in Mechanical Engineering. Springer, Singapore. https://doi.org/10.1007/978-981-99-4270-1_65. (Q2).
-o	Singh, B.N., Ranjan, V. & Hota, R.N. Optimization of vibration and noise reduction in sigmoid functionally graded plates using mode localization” Wave Motion,138, 103577 (2025) https://doi.org/10.1016/j.wavemoti.2025.103577. (Q2)
-o	Srijna Singh and Mohammad Danish and Kaushik Saha and Baij Nath Singh. Numerical simulation and analysis of fluid-structure interaction on 3D MHKF-180 and NACA4418 cavitating hydrofoils. Ocean Engineering, 272, 113867(2023), https://doi.org/10.1016/j.oceaneng.2023.113867. (Q1).
-Singh, B. N., Ranjan, V., & Hota, R. (2025). Optimization of vibration and noise reduction in sigmoid functionally graded plates using mode localization. Wave Motion, 138, 103577. https://doi.org/10.1016/j.wavemoti.2025.103577
-Singh, B. N., & Bankar, M. M. (2025). Finite element analysis of composite bolted joints using mesh-based clearance control in ABAQUS. Mechanics Based Design of Structures and Machines, 1–31. https://doi.org/10.1080/15397734.2025.2588304
+This repository contains my peer-reviewed SCI/SCIE Q1/Q2 journal publications in the areas of vibroacoustics, functionally graded materials, composite structures, bolted joints, and lightweight structural optimization.
+
+---
+
+## Journal Articles
+
+1. **Vibroacoustic response of mode localized thin functionally graded plates using physical neutral surface**  
+   Singh, B.N., Ranjan, V., & Hota, R.N.  
+   *Composite Structures*, 287, 115301 (2022) — **Q1**  
+   DOI: https://doi.org/10.1016/j.compstruct.2022.115301  
+
+2. **Acoustic Response of Sigmoid Functionally Graded Thin Plates: A Parametric Investigation**  
+   Singh, B.N., Hota, R.N., Dwivedi, S. et al.  
+   *Journal of Vibration Engineering & Technologies*, 10, 2509–2529 (2022) — **Q2**  
+   DOI: https://doi.org/10.1007/s42417-022-00500-4  
+
+3. **Vibroacoustic response from thin exponential functionally graded plates**  
+   Singh, B.N., Ranjan, V., & Hota, R.N.  
+   *Archive of Applied Mechanics*, 92, 2095–2118 (2022) — **Q2**  
+   DOI: https://doi.org/10.1007/s00419-022-02163-9  
+
+4. **Analytical Investigation of Sound Radiation from Functionally Graded Thin Plates Based on Elemental Radiator Approach and Physical Neutral Surface**  
+   Singh, B.N.; Hota, R.N.; Dwivedi, S.; Jha, R.; Ranjan, V.; Řehák, K.  
+   *Applied Sciences*, 12, 7707 (2022) — **Q2**  
+   DOI: https://doi.org/10.3390/app12157707  
+
+5. **Vibroacoustic Response of Thin Power Law Indexed Functionally Graded Plates**  
+   Singh, B.N., Ranjan, V., & Hota, R.N.  
+   *Steel and Composite Structures*, 50(3) (2024) — **Q1**  
+   DOI: https://doi.org/10.12989/scs.2024.50.3.299  
+
+6. **Sound Radiation of Clamped Multilayered Functionally Graded Plates Considering Physical Neutral Surface**  
+   Singh, B.N., Ranjan, V., & Hota, R.N.  
+   In: *Advances in Industrial Machines and Mechanisms*, IPROMM 2022  
+   Lecture Notes in Mechanical Engineering, Springer, Singapore (2024) — **Q2**  
+   DOI: https://doi.org/10.1007/978-981-99-4270-1_65  
+
+7. **Optimization of vibration and noise reduction in sigmoid functionally graded plates using mode localization**  
+   Singh, B.N., Ranjan, V., & Hota, R.N.  
+   *Wave Motion*, 138, 103577 (2025) — **Q2**  
+   DOI: https://doi.org/10.1016/j.wavemoti.2025.103577  
+
+8. **Numerical simulation and analysis of fluid-structure interaction on 3D MHKF-180 and NACA4418 cavitating hydrofoils**  
+   Srijna Singh, Mohammad Danish, Kaushik Saha, Baij Nath Singh  
+   *Ocean Engineering*, 272, 113867 (2023) — **Q1**  
+   DOI: https://doi.org/10.1016/j.oceaneng.2023.113867  
+
+9. **Finite element analysis of composite bolted joints using mesh-based clearance control in ABAQUS**  
+   Singh, B. N., & Bankar, M. M.  
+   *Mechanics Based Design of Structures and Machines*, 1–31 (2025)  
+   DOI: https://doi.org/10.1080/15397734.2025.2588304  
+
+---
+
+## PhD Thesis
+
+**Title:** Vibroacoustic and structural behavior of functionally graded composite plates under dynamic loading  
+**Author:** Baij Nath Singh  
+**Institution:** IIT (ISM) Dhanbad  
+**Year:** 2023  
+
 
 ---
 
