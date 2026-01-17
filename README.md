@@ -85,6 +85,10 @@ publications/
  ├── 2025-wavemotion-optimization/
  └── 2025-bolted-joints-abaqus/
 
+README.md
+paper.pdf (if allowed)
+figures/
+code/
 
 ## Journal Articles
 
