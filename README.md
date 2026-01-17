@@ -75,6 +75,16 @@ I have published 9+ SCI/SCIE Q1/Q2 journal papers in the areas of vibroacoustics
 This repository contains my peer-reviewed SCI/SCIE Q1/Q2 journal publications in the areas of vibroacoustics, functionally graded materials, composite structures, bolted joints, and lightweight structural optimization.
 
 ---
+publications/
+ ├── 2022-compstruct-fgm-vibroacoustics/
+ ├── 2022-jvet-sigmoid-fgm/
+ ├── 2022-archapplmech-exponential-fgm/
+ ├── 2022-applsci-sound-radiation/
+ ├── 2023-oceaneng-fsi/
+ ├── 2024-steelcompstruct-powerlaw-fgm/   ← NEW (Q1, Techno-Press)
+ ├── 2025-wavemotion-optimization/
+ └── 2025-bolted-joints-abaqus/
+
 
 ## Journal Articles
 
